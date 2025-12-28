@@ -1,6 +1,3 @@
-# SaaS Marketing (€50/mes)
-Auto-marketing: Instagram/TikTok posts, leads → email [memory:20]
-## Features
-- Social auto-post (FB no)
-- Lead scoring + campaigns
-## Setup: n8n workflows/marketing.json
+# Majina Knjiga n8n (€1K/mes) [memory:24]
+beart.musetouch.org → n8n → prodaja knjiga (standard/luxury/audiobook) [memory:23]
+## Workflows: workflows/knjiga.json → n8n.musetouch.org
