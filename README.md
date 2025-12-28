@@ -1,8 +1,6 @@
-# Prepaid Dropship (42K RSD/ned)
-Prepaid dropshipping: KupujemProdajem → n8n → dobavljač → kurir.
-## Setup
-1. Import workflows/dropship.json u n8n
-2. Env: SUPPLIER_API, COURIER_TOKEN
+# SaaS Marketing (€50/mes)
+Auto-marketing: Instagram/TikTok posts, leads → email [memory:20]
 ## Features
-- Auto stock check + supplier notify
-- Unapredna plaćanja [memory:5]
+- Social auto-post (FB no)
+- Lead scoring + campaigns
+## Setup: n8n workflows/marketing.json
